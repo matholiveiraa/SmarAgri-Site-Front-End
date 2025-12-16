@@ -10,7 +10,7 @@ O projeto foi desenvolvido para fins exclusivamente acadêmicos, utilizando tecn
 
 # Página Inicial - SmartAgri Technologies
 
-Este é o código HTML da página inicial de um projeto desenvolvido por alunos do curso de Desenvolvimento de Sistemas da ETEC de Guarulhos.
+Este é o código HTML da página inicial de um projeto desenvolvido por mim no curso de Desenvolvimento de Sistemas da ETEC de Guarulhos.
 
 ## 🧩 Estrutura do Projeto
 
